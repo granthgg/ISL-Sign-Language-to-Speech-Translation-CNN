@@ -1,0 +1,9 @@
+tensorflow
+Pillow
+tkinter
+opencv-python
+numpy
+keras
+pyttsx3
+requests
+matplotlib
