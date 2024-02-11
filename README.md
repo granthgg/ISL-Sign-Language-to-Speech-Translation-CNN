@@ -38,5 +38,3 @@ This project aims to translate Indian Sign Language (ISL) into speech using Conv
 ## Contributing
 Contributions to improve the project are welcome. Please follow the standard fork-and-pull request workflow.
 
-## License
-This project is open-sourced under the MIT License. See the LICENSE file for more details.
