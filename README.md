@@ -3,6 +3,14 @@
 ## Overview
 This project aims to translate Indian Sign Language (ISL) into speech using Convolutional Neural Networks (CNN). It is designed to bridge the communication gap between the deaf and hearing communities by converting sign language gestures into audible speech.
 
+<div>
+<img src="https://github.com/granthgg/ISL-Sign-Language-to-Speech-Translation-CNN/assets/69439823/f3a0868a-5b17-4c24-984b-7b55b6a48622" width="320" height="295"/>&nbsp; 
+<img src="https://github.com/granthgg/ISL-Sign-Language-to-Speech-Translation-CNN/assets/69439823/8c5ae02a-677d-402b-8292-91cb210680ae" width="320" height="295"/>&nbsp; 
+<img src="https://github.com/granthgg/ISL-Sign-Language-to-Speech-Translation-CNN/assets/69439823/adb8f618-3be9-4666-b80a-2ff5a9c94162" width="320" height="295"/>&nbsp;
+<img src="https://github.com/granthgg/ISL-Sign-Language-to-Speech-Translation-CNN/assets/69439823/aff9137b-1bed-4320-84a6-49e104276031" width="320" height="295"/>&nbsp; 
+<div>
+
+
 ## Features
 - **Data Preprocessing**: Scripts for preparing and augmenting the ISL dataset for training.
 - **Model Training**: A Jupyter Notebook (`Training.ipynb`) detailing the process of training the CNN model on the ISL dataset.
