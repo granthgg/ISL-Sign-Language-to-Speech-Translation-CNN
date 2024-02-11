@@ -1,4 +1,4 @@
-# ISL Sign Language to Speech Translation CNN
+# ISL SIGN LANGUAGE TO SPEECH TRANSLATION CNN
 
 ## Overview
 This project aims to translate Indian Sign Language (ISL) into speech using Convolutional Neural Networks (CNN). It is designed to bridge the communication gap between the deaf and hearing communities by converting sign language gestures into audible speech.
